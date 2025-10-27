@@ -1,7 +1,8 @@
 # doc-repo
-This repository puts together several reviews of articles that I find useful for software engineering and computer science research
+
+A collection of software engineering notes and lessons.
 
 ## Table of Contents
 
-- [Software Engineering](Software%20Engineering/)
-  - Topics related to software development practices and methodologies
+- [Software Engineering](Software%20Engineering/README.md)
+
