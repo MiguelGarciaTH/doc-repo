@@ -51,3 +51,16 @@ Nevertheless, I think the author is mainly referring to feature-like problems. F
 > "We may also need a service to upload profile photos, this should be cached, crop the images, and support access to old photos, etc."
 
 In these types of scenarios, yes, don't fall into the "what if" pit. Keep features clear and concise, addressing them with focus. A principle I like is "divide and conquer."
+
+### Design patterns are used to describe solutions, not to find them
+
+> (Again, personal opinion) Most of the time I saw design patterns being applied, they were applied as a way to find a solution, so you end up twisting a solution -- and, sometimes, the problem it self -- to fit the pattern.
+>
+>First, solve your problem; find a good solution; then you can check the patterns to know how you name that solution.
+>
+>I saw this happens a lot: We have this problem; a design pattern gets close to the proper solution; let's use the design pattern; now we need to add a lot of things around the proper solution to make it fit the pattern.
+
+Design Patterns: Elements of Reusable Object-Oriented Software (1994) by Gang of Four is a must read of classic software engineerign literature. When I was learning design patterns they seemed like a set of rules that described all the software problems and theirs respective solutions. Whith the experience, the plethora of patterns became a thougth toolkit instead of a set of ready-to-use solutions. Every problem is a different problem, different requirements, languages, frameworks, goals, etc, may restrict the approach to the problem towards the solution. Therefore, they are very useful as metaphors and examples to guide our solution. 
+
+
+Good reference for Design Patterns, I used these examples a lot when I teaching Software Engineering (ref: https://refactoring.guru/design-patterns).
